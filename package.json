@@ -1,0 +1,25 @@
+{
+  "name": "prettier-config-shinpei",
+  "version": "0.0.1",
+  "description": "prettier config",
+  "main": "index.js",
+  "keywords": [
+    "shinpei",
+    "zusinShinpei",
+    "prettier",
+    "prettier config"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/zusinShinpei/prettier-config-shinpei.git"
+  },
+  "author": "Minhyuk Kim <react-native@kakao.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/zusinShinpei/prettier-config-shinpei"
+  },
+  "homepage": "https://github.com/zusinShinpei/prettier-config-shinpei",
+  "peerDependencies": {
+    "prettier": "^1.19.1"
+  }
+}
