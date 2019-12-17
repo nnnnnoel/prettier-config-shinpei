@@ -1,6 +1,6 @@
 {
   "name": "prettier-config-shinpei",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "prettier config",
   "main": "index.js",
   "keywords": [
