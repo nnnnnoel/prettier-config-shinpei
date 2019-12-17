@@ -15,7 +15,5 @@ npm i prettier-config-shinpei -D
 In `prettier.config.js`:
 
 ```javascript
-module.exports = {
-  extends: "react-native-shinpei",
-}
+module.exports = require('prettier-config-shinpei');
 ```
